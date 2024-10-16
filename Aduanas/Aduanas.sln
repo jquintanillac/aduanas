@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aduanas.Web", "Aduanas.Web\Aduanas.Web.csproj", "{9EE149AD-F09A-4836-B2FA-3456B7BC3FF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aduanas.Api", "Aduanas.Api\Aduanas.Api.csproj", "{3D1CA03E-ACD7-4055-8092-71B3F5B47D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EE149AD-F09A-4836-B2FA-3456B7BC3FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE149AD-F09A-4836-B2FA-3456B7BC3FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE149AD-F09A-4836-B2FA-3456B7BC3FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE149AD-F09A-4836-B2FA-3456B7BC3FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1CA03E-ACD7-4055-8092-71B3F5B47D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1CA03E-ACD7-4055-8092-71B3F5B47D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1CA03E-ACD7-4055-8092-71B3F5B47D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1CA03E-ACD7-4055-8092-71B3F5B47D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4B17556-A37D-4F88-825A-FAA08DE0DD87}
+	EndGlobalSection
+EndGlobal
