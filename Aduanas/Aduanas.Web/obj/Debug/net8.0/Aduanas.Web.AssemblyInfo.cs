@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aduanas.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb1c419ebcd16cdffe28bf56c5e9c11c39fbbf4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aduanas.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aduanas.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
