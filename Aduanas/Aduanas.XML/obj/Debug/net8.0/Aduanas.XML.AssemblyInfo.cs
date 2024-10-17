@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aduanas.XML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb1c419ebcd16cdffe28bf56c5e9c11c39fbbf4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d29151c9eae790dfa7026ad701ac3d379623b8ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aduanas.XML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aduanas.XML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

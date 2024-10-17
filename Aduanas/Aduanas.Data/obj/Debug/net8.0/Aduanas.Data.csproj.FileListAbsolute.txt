@@ -1,0 +1,12 @@
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.Data\bin\Debug\net8.0\Aduanas.Data.deps.json
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.Data\bin\Debug\net8.0\Aduanas.Data.dll
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.Data\bin\Debug\net8.0\Aduanas.Data.pdb
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.Data\obj\Debug\net8.0\Aduanas.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.Data\obj\Debug\net8.0\Aduanas.Data.AssemblyInfoInputs.cache
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.Data\obj\Debug\net8.0\Aduanas.Data.AssemblyInfo.cs
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.Data\obj\Debug\net8.0\Aduanas.Data.csproj.CoreCompileInputs.cache
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.Data\obj\Debug\net8.0\Aduanas.Data.sourcelink.json
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.Data\obj\Debug\net8.0\Aduanas.Data.dll
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.Data\obj\Debug\net8.0\refint\Aduanas.Data.dll
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.Data\obj\Debug\net8.0\Aduanas.Data.pdb
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.Data\obj\Debug\net8.0\ref\Aduanas.Data.dll

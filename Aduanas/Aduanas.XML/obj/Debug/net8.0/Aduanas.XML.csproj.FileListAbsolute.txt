@@ -1,0 +1,16 @@
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\bin\Debug\net8.0\Aduanas.XML.deps.json
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\bin\Debug\net8.0\Aduanas.XML.dll
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\bin\Debug\net8.0\Aduanas.XML.pdb
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\bin\Debug\net8.0\Aduanas.Data.dll
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\bin\Debug\net8.0\Aduanas.Data.pdb
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\obj\Debug\net8.0\Aduanas.XML.csproj.AssemblyReference.cache
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\obj\Debug\net8.0\Aduanas.XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\obj\Debug\net8.0\Aduanas.XML.AssemblyInfoInputs.cache
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\obj\Debug\net8.0\Aduanas.XML.AssemblyInfo.cs
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\obj\Debug\net8.0\Aduanas.XML.csproj.CoreCompileInputs.cache
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\obj\Debug\net8.0\Aduanas.XML.sourcelink.json
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\obj\Debug\net8.0\Aduanas..E7E4A001.Up2Date
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\obj\Debug\net8.0\Aduanas.XML.dll
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\obj\Debug\net8.0\refint\Aduanas.XML.dll
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\obj\Debug\net8.0\Aduanas.XML.pdb
+C:\Jquintanilla\Aduanas\Aduanas\Aduanas.XML\obj\Debug\net8.0\ref\Aduanas.XML.dll
